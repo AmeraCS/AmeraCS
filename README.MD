@@ -6,7 +6,7 @@
 
 - 🔭  I am a space lover, and Pisces
 - 🌐  Proud user of Unix based Operating Systems.
-- ✍️  No I will not tell you what Distro I run
+- ❌  No I'm not gonnna tell you what Distro I run. That's hella ego bait
 
 ## 🌱 Currently Exploring
 
