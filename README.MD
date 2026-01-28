@@ -1,4 +1,4 @@
-# Hi, I'm Amera! 👋
+# Hi, I'm Cola! 👋
 
 ![AmeraCS's Stats](https://github-readme-stats.vercel.app/api?username=AmeraCS&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
