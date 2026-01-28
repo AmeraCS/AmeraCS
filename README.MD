@@ -4,12 +4,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I am a space lover, and Pisces
-- 🌐 Proud user of Unix based Operating Systems.
-- ✍️ No I will not tell you what Distro I run
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🔭  I am a space lover, and Pisces
+- 🌐  Proud user of Unix based Operating Systems.
+- ✍️  No I will not tell you what Distro I run
 
 ## 🌱 Currently Exploring
 
@@ -20,11 +17,6 @@
  ## 🏆 Achievements
 
 - NOTHING
-
-
-## 📬 Get in Touch
-
-- Please do not reach out
 
 <!--
 
